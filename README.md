@@ -2,7 +2,7 @@
 ---
 https://github.com/leizongmin/js-xss
 
-```
+```sh
 npm install xss
 bower install xss
 bower install https://github.com/leizongmin/js-xss.git
@@ -11,7 +11,6 @@ xss -i <input_file> -o <output_file>
 xss -i origin.html -o target.html
 
 xss -t
-
 ```
 
 ```js
